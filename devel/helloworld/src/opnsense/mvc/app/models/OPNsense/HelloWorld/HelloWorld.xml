@@ -25,6 +25,15 @@
             <Description type="TextField">
                 <Required>Y</Required>
             </Description>
+            <Color type="OptionField">
+                <Required>Y</Required>
+                <default>red</default>
+                <OptionValues>
+                    <red>Red</red>
+                    <green>Green</green>
+                    <blue>Blue</blue>
+                </OptionValues>
+            </Color>
         </general>
     </items>
 </model>

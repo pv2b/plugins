@@ -27,4 +27,9 @@
         <label>Description</label>
         <type>text</type>
     </field>
+    <field>
+        <id>helloworld.general.Color</id>
+        <label>Color</label>
+        <type>dropdown</type>
+    </field>
 </form>
